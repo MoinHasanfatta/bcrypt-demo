@@ -46,5 +46,3 @@ app.listen(PORT,()=>{
     console.log("Json web token")
 })
 
-// secret ==   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJ1c2VyIjoiand0LWRlbW8iLCJlbWFpbCI6ImRlbW9Aand0LmlvIn0sImlhdCI6MTc1NjQ0ODMxNX0.MRepN_yd-5Nasm-RmlFCxUthMyrbJHKN4KxzBTK3xhY"
-// moin ==  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJ1c2VyIjoiand0LWRlbW8iLCJlbWFpbCI6ImRlbW9Aand0LmlvIn0sImlhdCI6MTc1NjQ0ODYwMn0.hgppPTd66h18tauKVJnXR82BfAjIprz5gWMrGkj0WRs"
